@@ -1,4 +1,4 @@
-# 🎬 Huobao Drama - AI 短剧生成平台
+# 🎬 Xiaozhuang Drama - AI 短剧生成平台
 
 <div align="center">
 
@@ -18,11 +18,8 @@
 
 ## 📖 项目简介
 
-Huobao Drama 是一个基于 AI 的短剧自动化生产平台，实现从剧本生成、角色设计、分镜制作到视频合成的全流程自动化。
+Xiaozhuang Drama 是一个基于 AI 的短剧自动化生产平台，实现从剧本生成、角色设计、分镜制作到视频合成的全流程自动化。
 
-火宝短剧商业版地址：[火宝短剧商业版](https://drama.chatfire.site/shortvideo)
-
-火宝小说生成：[火宝小说生成](https://marketing.chatfire.site/huobao-novel/)
 
 ### 🎯 核心价值
 
@@ -631,35 +628,5 @@ A: GORM 会在首次启动时自动创建表，检查日志确认迁移是否成
 
 2 分钟完成配置：[API 聚合站点](https://api.chatfire.site/models)
 
----
-
-## 👨‍💻 关于我们
-
-**AI 火宝 - AI 工作室创业中**
-
-- 🏠 **位置**: 中国南京
-- 🚀 **状态**: 创业中
-- 📧 **Email**: [18550175439@163.com](mailto:18550175439@163.com)
-- 🐙 **GitHub**: [https://github.com/chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama)
-
-> _"让 AI 帮我们做更有创造力的事"_
-
-## 项目交流群
-
-![项目交流群](drama.png)
-
-- 提交 [Issue](../../issues)
-- 发送邮件至项目维护者
-
----
 
 <div align="center">
-
-**⭐ 如果这个项目对你有帮助，请给一个 Star！**
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=chatfire-AI/huobao-drama&type=date&legend=top-left)](https://www.star-history.com/#chatfire-AI/huobao-drama&type=date&legend=top-left)
-Made with ❤️ by Huobao Team
-
-</div>
